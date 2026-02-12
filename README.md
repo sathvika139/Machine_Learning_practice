@@ -44,22 +44,22 @@ Machine-Learning
 
 ### Week 4: Ridge and Lasso Regression
   - Regularization techniques
-  - Bias–variance tradeoff
+  - Hyperparameter tuning using GridSearchCV
 
 ### Week 5: K-Nearest Neighbors (KNN)
-  - Distance metrics
   - Classification using KNN
 
 ### Week 6: ID3 Decision Tree
   - Entropy and information gain
-  - Decision tree construction
+  - Decision Tree
 
 ### Week 7: Logistic Regression & Naive Bayes
-  - Binary classification
-  - Probabilistic models
+  - Logistic used for both classification and regression
+  - Prediction and Evaluation
 
 ### Week 8: Support Vector Machine (SVM)
-  - Margin maximization
+  - Prediction and Evaluation
+  - iris and diabetes(UCI ML) datasets
   - Kernel concepts
 
 ##🧪Practice Pattern
