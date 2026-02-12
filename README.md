@@ -3,20 +3,30 @@ This repository contains my work while learning **Machine Learning fundamentals*
 The work is organized on a **weekly basis**, covering core machine learning algorithms along with hands-on dataset handling.
 
   **Structure:**
+  
 Machine-Learning
-│
+
 ├── Week_01 -> Packages_Demo
+
 ├── Week_02 -> Data_Preprocessing
+
 ├── Week_03 -> Linear_Regression
+
 ├── Week_04 -> Ridge_Lasso
+
 ├── Week_05 -> KNN
+
 ├── Week_06 -> ID3_Decision_Tree
+
 ├── Week_07 -> Logistic_NaiveBayes
+
 ├── Week_08 -> SVM
 
-├── datasets/
-    ├── local_datasets
-    └── external_datasets
+├── **datasets**
+
+  ├── local_datasets
+  
+  └── external_datasets
 
 ## 📚 Weekly Breakdown
 ### Week 1: Demo of ML Packages
