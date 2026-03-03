@@ -1,10 +1,10 @@
-# Machine Learning Work
-This repository contains my work while learning **Machine Learning fundamentals**.  
-The work is organized on a **weekly basis**, covering core machine learning algorithms along with hands-on dataset handling.
+**Machine Learning Work**
+This repository contains my work while learning Machine Learning fundamentals.
+The work is organized on a weekly basis, covering core machine learning algorithms along with hands-on dataset handling.
 
-  **Structure:**
-  
-Machine-Learning
+**Structure:**
+
+**Machine-Learning**
 
 ├── Week_01 -> Packages_Demo
 
@@ -22,58 +22,66 @@ Machine-Learning
 
 ├── Week_08 -> SVM
 
-├── **datasets**
+├── Week_09 -> Ensemble_Learning
 
-  ├── local_datasets
-  
-  └── external_datasets
+ **datasets**
 
-## 📚 Weekly Breakdown
-### Week 1: Demo of ML Packages
-  - Introduction to Python ML libraries
-  - NumPy, Pandas, Matplotlib, Scikit-learn basics
+   ├── local_datasets
 
-### Week 2: Data Preprocessing
-  - Data cleaning
-  - Handling missing values
-  - Feature scaling and encoding
+   └── external_datasets
 
-### Week 3: Linear Regression
-  - Simple and multiple linear regression
-  - Model evaluation
+📚 **Weekly Breakdown**
 
-### Week 4: Ridge and Lasso Regression
-  - Regularization techniques
-  - Hyperparameter tuning using GridSearchCV
+Week 1: Demo of ML Packages
+Introduction to Python ML libraries
+NumPy, Pandas, Matplotlib, Scikit-learn basics
 
-### Week 5: K-Nearest Neighbors (KNN)
-  - Classification using KNN
+Week 2: Data Preprocessing
+Data cleaning
+Handling missing values
+Feature scaling and encoding
 
-### Week 6: ID3 Decision Tree
-  - Entropy and information gain
-  - Decision Tree
+Week 3: Linear Regression
+Simple and multiple linear regression
+Model evaluation
 
-### Week 7: Logistic Regression & Naive Bayes
-  - Logistic used for both classification and regression
-  - Prediction and Evaluation
+Week 4: Ridge and Lasso Regression
+Regularization techniques
+Hyperparameter tuning using GridSearchCV
 
-### Week 8: Support Vector Machine (SVM)
-  - Prediction and Evaluation
-  - iris and diabetes(UCI ML) datasets
-  - Kernel concepts
+Week 5: K-Nearest Neighbors (KNN)
+Classification using KNN
 
-##🧪Practice Pattern
-Each week includes **two problems**:
-1. **Loading datasets** (local or built-in datasets)
-2. **External datasets** downloaded from:
-   - GitHub
-   - Kaggle
+Week 6: ID3 Decision Tree
+Entropy and information gain
+Decision Tree
 
-## 🛠 Tools & Libraries Used
+Week 7: Logistic Regression & Naive Bayes
+Logistic used for both classification and regression
+Prediction and Evaluation
 
-- Python
-- NumPy
-- Pandas
-- Matplotlib / Seaborn
-- Scikit-learn
-- Jupyter Notebook
+Week 8: Support Vector Machine (SVM)
+Prediction and Evaluation
+iris and diabetes(UCI ML) datasets
+Kernel concepts
+
+Week 9: Ensemble Learning
+Demonstration of Ensemble Learning algorithms
+Bagging on Breast Cancer and Wine datasets
+Boosting using AdaBoostClassifier on Breast Cancer and Wine datasets
+Prediction and Evaluation
+
+##🧪**Practice Pattern Each week includes two problems**:
+
+Loading datasets (local or built-in datasets)
+External datasets downloaded from:
+GitHub
+Kaggle
+
+🛠 Tools & Libraries Used
+Python
+NumPy
+Pandas
+Matplotlib / Seaborn
+Scikit-learn
+Jupyter Notebook
